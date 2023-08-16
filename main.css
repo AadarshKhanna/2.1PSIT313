@@ -1,0 +1,10 @@
+body { background-color: rgb(192, 224, 251); }
+hr { width: 10%; border-color: #91f7bdee; border-style: solid; border-width: 2px; }
+h1 { margin-top: 0; color: steelblue; text-align: center; }
+h2 { color: steelblue; text-align: center; }
+h3 { color: steelblue; text-align: center; }
+h4 { color: steelblue; text-align: center; }
+h5 { color: steelblue; text-align: center; }
+h6 { color: steelblue; text-align: center; }
+p { text-align: center; }
+a { color: steelblue;}
